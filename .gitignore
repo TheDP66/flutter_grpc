@@ -1,0 +1,8 @@
+./client/.dart_tool
+./client/.idea
+./client/build
+./client/app.iml
+
+./protos/.dart_tool
+
+./server/.dart_tool

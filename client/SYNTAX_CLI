@@ -1,0 +1,5 @@
+Init App
+flutter create --project-name=app --org=com.dharma --platforms=android,linux .
+
+Run App
+flutter run -d linux
